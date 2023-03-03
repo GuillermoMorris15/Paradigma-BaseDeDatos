@@ -1,0 +1,21 @@
+¿Qué es una base de datos?
+
+-Una base de datos en mi concepto es un espacio en memoria, 
+en el cual podemos guardar diferente tipo de informacion y 
+con una gran capicidad para guardar grandes cantidades de datos.
+
+¿Qué paradigmas de base de datos conoces?
+
+-Paradigma declarativo.
+-POO (programacion orientada a objetos).
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas?
+ 
+-Paradigma declarativo: este paradigma hace lo que nosotros le pedimos
+pero no tenemos informacion de que manera lo hizo 
+
+-POO (programacion orientada a objetos):esta divida en abstraccion, herencia
+encapsulamiento, polimorfismo.
+
+estos objetos contienen caracteristicas y funciones que dan vida a su 
+funcionamiento, permitiendo una conexion o interaccion entre varios objetos.
